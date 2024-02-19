@@ -35,7 +35,7 @@
 **Member of the Organization Committee @ 6th Iberian Congress of Perception (_April 2015- June 2015_)**
 
 ## Publications
-- Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. Sensors, _23_(9), 4244. [Publication] (https://www.mdpi.com/1424-8220/23/9/4244/pdf)
+- Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. Sensors, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
   
 
 
