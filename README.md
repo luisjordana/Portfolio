@@ -27,7 +27,7 @@
 - **Data scrapping** and **processing** of online sources using **Python**. 
 - **Data categorization** using **Chat-GPT API** and **NLP** techniques.
 
-**Statistics Tutor (SPSS  and R) @ Self-Employed (Lima, Perú) (_Septiembre 2017- June 2018_)**
+**Statistics Tutor (SPSS  and R) @ Self-Employed (Lima, Perú) (_September 2017- June 2018_)**
 - I gave classes in **Statistics** to students of Sociology, Psychology, and similar fields.
 - The classes were mainly focused on the usage of **SPSS**, and **R** for **hypothesis testing**, and **exploratory data analysis**.
 - Additionally, I help them **write** and **strengthen** the **methodology** of their Bachelor’s thesis.
