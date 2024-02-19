@@ -35,7 +35,7 @@
 **Member of the Organization Committee @ 6th Iberian Congress of Perception (_April 2015- June 2015_)**
 
 ## Example Projects
-
+[Project](https://github.com/luisjordana/competitive_model)
 
 ## Publications
 Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. _Sensors_, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
