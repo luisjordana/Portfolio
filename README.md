@@ -36,6 +36,9 @@
 
 ## Example Projects
 
+**Facial Emotion Detection**
+- In this data scientist project, we aim to generate a Deep Learning Algorithm that allows the machine to classify photos into four different emotions (_Happy_, _Sad_, _Neutral_, and _Surprise_). [Project](https://github.com/luisjordana/Facial_Emotion_Detection)
+
 **Marketing Segmentation** 
 - In this data scientist project, we aim to implement a data segmentation strategy using unsupervised learning techniques. The goal is to partition a dataset into distinct groups or segments based on inherent patterns or similarities in the data, without the need for labeled outcomes.
 [Project](https://github.com/luisjordana/Marketing_Segmentation)
