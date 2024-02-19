@@ -35,6 +35,10 @@
 **Member of the Organization Committee @ 6th Iberian Congress of Perception (_April 2015- June 2015_)**
 
 ## Example Projects
+
+
+**Competitive Oscillatory Coupling**
+- Two oscillators were programmed in such a way that their behavior was coupled to each other. By modifying the way such behavior was coupled, competitive coupling could be modeled leading to interesting insights into this unique antagonistic dynamics.
 [Project](https://github.com/luisjordana/competitive_model)
 
 ## Publications
