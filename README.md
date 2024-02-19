@@ -35,7 +35,13 @@
 **Member of the Organization Committee @ 6th Iberian Congress of Perception (_April 2015- June 2015_)**
 
 ## Publications
-- Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. Sensors, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
+Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. _Sensors_, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
+
+Stafford, J., Rodger, M., Gómez-Jordana, L. I., Whyatt, C., & Craig, C. M. (2022). Developmental differences across the lifespan in the use of perceptual information to guide action-based decisions. _Psychological research_, 1-16. [Publication](https://link.springer.com/article/10.1007/s00426-021-01476-8)
+
+Gómez-Jordana, L. I., Amaro e Silva, R., Milho, J., Ric, A., & Passos, P. (2021). Illustrating changes in landscapes of passing opportunities along a set of competitive football matches. Scientific Reports, 11(1), 9792. [Publication](https://www.nature.com/articles/s41598-021-89184-6)
+
+
   
 
 
