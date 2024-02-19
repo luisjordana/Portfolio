@@ -22,7 +22,7 @@
 - My **Bachelor’s Thesis** was published in a **peer-reviewed journal**. 
 
 ## Work Experience
-**Senior Consultant in Big Data @ Atrevia (_May 2023- Present_)**
+**Consultant in Big Data @ Atrevia (_May 2023- Present_)**
 - **Data analysis** of **online conversations**, **reviews**, and **news feeds** to generate reports that inform business decisions. 
 - **Data scrapping** and **processing** of online sources using **Python**. 
 - **Data categorization** using **Chat-GPT API** and **NLP** techniques.
