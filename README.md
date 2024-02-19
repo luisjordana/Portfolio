@@ -1,5 +1,5 @@
 # Data Scientist
-**Technical Skills:** Matlab, R, SQL, Python, SPSS, C++, Supervised Learning, Unsupervised Learning, Deep Learning, Forecasting, Hypothesis testing, Exploratory Data Analisis, Recommendation Systems, Quantitative Research, Research Design, Team Work, Independent worker
+**Technical Skills:** Matlab, R, SQL, Python, SPSS, C++, Supervised Learning, Unsupervised Learning, Deep Learning, Forecasting, Hypothesis testing, Exploratory Data Analysis, Recommendation Systems, Quantitative Research, Research Design, Team Work, Independent worker
 ## Education
 **Professional Education, Data Science | MIT Professional (_January 2023- April 2023_)**
 - Theory of several **data science techniques** including Deep Learning, Unsupervised and Supervised Learning, Graphs, Recommendation Systems, Exploratory Data analysis, and Forecasts among others.
@@ -36,9 +36,12 @@
 
 ## Example Projects
 
+**Marketing Segmentation** 
+- In this data scientist project, we aim to implement a data segmentation strategy using unsupervised learning techniques. The goal is to partition a dataset into distinct groups or segments based on inherent patterns or similarities in the data, without the need for labeled outcomes.
+[Project](https://github.com/luisjordana/Marketing_Segmentation)
 
 **Competitive Oscillatory Coupling**
-- Two oscillators were programmed in such a way that their behavior was coupled to each other. By modifying the way such behavior was coupled, competitive coupling could be modeled leading to interesting insights into this unique antagonistic dynamics.
+- Two oscillators were programmed in such a way that their behavior was coupled to each other. By modifying the way such behavior was coupled, competitive coupling could be modeled leading to interesting insights into this unique antagonistic dynamic.
 [Project](https://github.com/luisjordana/competitive_model)
 
 ## Publications
