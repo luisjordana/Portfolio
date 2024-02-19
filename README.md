@@ -1,5 +1,5 @@
 # Data Scientist
-**Technical Skills:** Python, SQL, R, MATLAB, SPSS, Tensorflow, Pandas, Research Design
+**Technical Skills:** Matlab, R, SQL, Python, SPSS, C++, Supervised Learning, Unsupervised Learning, Deep Learning, Forecasting, Hypothesis testing, Exploratory Data Analisis, Recommendation Systems, Quantitative Research, Research Design, Team Work, Independent worker
 ## Education
 **Professional Education, Data Science | MIT Professional (_January 2023- April 2023_)**
 - Theory of several **data science techniques** including Deep Learning, Unsupervised and Supervised Learning, Graphs, Recommendation Systems, Exploratory Data analysis, and Forecasts among others.
@@ -34,15 +34,22 @@
 
 **Member of the Organization Committee @ 6th Iberian Congress of Perception (_April 2015- June 2015_)**
 
+## Example Projects
+
+
 ## Publications
 Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. _Sensors_, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
 
 Stafford, J., Rodger, M., Gómez-Jordana, L. I., Whyatt, C., & Craig, C. M. (2022). Developmental differences across the lifespan in the use of perceptual information to guide action-based decisions. _Psychological research_, 1-16. [Publication](https://link.springer.com/article/10.1007/s00426-021-01476-8)
 
-Gómez-Jordana, L. I., Amaro e Silva, R., Milho, J., Ric, A., & Passos, P. (2021). Illustrating changes in landscapes of passing opportunities along a set of competitive football matches. Scientific Reports, 11(1), 9792. [Publication](https://www.nature.com/articles/s41598-021-89184-6)
+Gómez-Jordana, L. I., Amaro e Silva, R., Milho, J., Ric, A., & Passos, P. (2021). Illustrating changes in landscapes of passing opportunities along a set of competitive football matches. _Scientific Reports_, _11_(1), 9792. [Publication](https://www.nature.com/articles/s41598-021-89184-6)
 
+Passos, P., Amaro E Silva, R., Gomez-Jordana, L., & Davids, K. (2020). Developing a two-dimensional landscape model of opportunities for penetrative passing in association football–Stage I. _Journal of Sports Sciences_, _38_(21), 2407-2414. [Publication](https://shura.shu.ac.uk/26918/3/Davids_DevelopingTwo-Dimensional%28AM%29.pdf)
 
-  
+Gómez-Jordana, L. I., Milho, J., Ric, Á., Silva, R., & Passos, P. (2019). Landscapes of passing opportunities in Football–where they are and for how long are available. In Conference paper at _Barça Sports Analytics Summit_. [Publication](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/a41ec6ba-final_paper_barcelona-luis-gomez-jordana.pdf)
 
+Gomez-Jordana, L. I., Stafford, J., Peper, C. L. E., & Craig, C. M. (2018). Crossing virtual doors: a new method to study gait impairments and freezing of gait in Parkinson’s disease. _Parkinson’s Disease_, _2018_. [Publication](https://www.hindawi.com/journals/pd/2018/2957427/)
 
-### Example Projects
+Gómez-Jordana, L. I., Stafford, J., Peper, C. L. E., & Craig, C. M. (2018). Virtual footprints can improve walking performance in people with Parkinson's disease. _Frontiers in neurology_, _9_, 681. [Publication](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.00681/full)
+
+Travieso, D., Gómez-Jordana, L., Díaz, A., Lobo, L., & Jacobs, D. M. (2015). Body-scaled affordances in sensory substitution. _Consciousness and Cognition_, _38_, 130-138. [Publication](https://www.sciencedirect.com/science/article/abs/pii/S1053810015300490)
