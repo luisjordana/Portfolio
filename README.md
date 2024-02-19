@@ -1,6 +1,6 @@
 # Data Scientist
 **Technical Skills:** Python, SQL, R, MATLAB, SPSS, Tensorflow, Pandas, Research Design
-### Education
+## Education
 **Professional Education, Data Science | MIT Professional (_January 2023- April 2023_)**
 - Theory of several **data science techniques** including Deep Learning, Unsupervised and Supervised Learning, Graphs, Recommendation Systems, Exploratory Data analysis, and Forecasts among others.
 - **Applications of such techniques using Python.** 
@@ -21,9 +21,22 @@
 - I excel in **statistics** during my **Bachelor's Degree**, obtaining outstanding grades.
 - My **Bachelor’s Thesis** was published in a **peer-reviewed journal**. 
 
-### Work Experience
-** Senior Consultant in Big Data @ Atrevia (_May 2023 - Present_)**
--
+## Work Experience
+**Senior Consultant in Big Data @ Atrevia (_May 2023- Present_)**
+- **Data analysis** of **online conversations**, **reviews**, and **news feeds** to generate reports that inform business decisions. 
+- **Data scrapping** and **processing** of online sources using **Python**. 
+- **Data categorization** using **Chat-GPT API** and **NLP** techniques.
+
+**Statistics Tutor (SPSS  and R) @ Self-Employed (Lima, Perú) (_Septiembre 2017- June 2018_)**
+- I gave classes in **Statistics** to students of Sociology, Psychology, and similar fields.
+- The classes were mainly focused on the usage of **SPSS**, and **R** for **hypothesis testing**, and **exploratory data analysis**.
+- Additionally, I help them **write** and **strengthen** the **methodology** of their Bachelor’s thesis.
+
+**Member of the Organization Committee @ 6th Iberian Congress of Perception (_April 2015- June 2015_)**
+
+## Publications
+- Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. Sensors, _23_(9), 4244. [Publication] (https://www.mdpi.com/1424-8220/23/9/4244/pdf)
+  
 
 
 ### Example Projects
