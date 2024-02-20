@@ -25,12 +25,12 @@ Universidade de Lisboa | _April 2023_
 
 **Research Master in Human Movement Sciences** 
 
-Vrije Universiteit Amsterdam | _September2017_
+Vrije Universiteit Amsterdam | _September 2017_
 - Acquire a **diverse skill set** applicable to **data science**, including **hypothesis testing**, **supervised learning (linear regression)**, and **unsupervised learning techniques**, especially **PCA**. This included the application of such methodologies using **R** and **MATLAB**. 
 
 **Bachelor in Psichology**
 
-Universidad Autónoma de Madrid | _September2015_
+Universidad Autónoma de Madrid | _September 2015_
 
 ## Work Experience
 
