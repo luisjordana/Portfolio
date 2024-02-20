@@ -1,7 +1,11 @@
 # Data Scientist
+
 **Technical Skills:** Python, Excel, Matlab, SPSS, R, Brandwatch, Power BI, SQL
+
 **Data Science:** Pandas, Numpy, Skicit-Learn, Tensorflow, Seaborn, Matplotlib
-**Soft Skills:** Teamwork, Fast-learner, Independent Worker, Analytical Mind.
+
+**Soft Skills:** Teamwork, Fast-learner, Independent Worker, Analytical Mind
+
 **Languages:** Spanish (C2), English (C2), Portuguese (B1)
 
 ## Education
