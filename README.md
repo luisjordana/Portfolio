@@ -1,38 +1,40 @@
 # Data Scientist
-**Technical Skills:** Matlab, R, SQL, Python, SPSS, C++, Supervised Learning, Unsupervised Learning, Deep Learning, Forecasting, Hypothesis testing, Exploratory Data Analysis, Recommendation Systems, Quantitative Research, Research Design, Team Work, Independent worker
-## Education
-**Professional Education, Data Science | MIT Professional (_January 2023- April 2023_)**
-- Theory of several **data science techniques** including Deep Learning, Unsupervised and Supervised Learning, Graphs, Recommendation Systems, Exploratory Data analysis, and Forecasts among others.
-- **Applications of such techniques using Python.** 
+**Technical Skills:** Python, Excel, Matlab, SPSS, R, Brandwatch, Power BI, SQL
+**Data Science:** Pandas, Numpy, Skicit-Learn, Tensorflow, Seaborn, Matplotlib
+**Soft Skills:** Teamwork, Fast-learner, Independent Worker, Analytical Mind.
+**Languages:** Spanish (C2), English (C2), Portuguese (B1)
 
-**Ph.D., Human Movement Sciences | Universidade de Lisboa (_January 2019- April 2023_)**
-- Created a **shooting and pass availability** method for **real in-game football data**. 
-- I researched **defensive coordination in football**, analyzing **player movements** to uncover strategies for enhancing team defense.
-- I conducted an experiment **modeling coordination** among participants, introducing antagonistic instructions to simulate competition dynamics. This involved developing a **small competitive mathematical model** to inform the expected results in such an antagonistic setting.
- 
-**Research Master, Human Movement Sciences | Vrije Universiteit Amsterdam (_September 2015- June 2017_)**
-- The **master's included a year of classes** where I learned about different aspects of Human Movement Science, such as Motor Diseases, Muscle Neuroscience, Micro Biology of the Bones and Muscles, Modelling of Muscle Synergies, etc...
-- The **second year was a research project aiming for publication**. I researched the usability of **immersive virtual reality** to study symptoms of **Parkinson’s Disease**. This led to the publication of **two peer-reviewed papers**. 
-- **Hypothesis testing**, and **supervised learning** (linear regression) using R.
-- **Kinetic modeling** using **Matlab**.
-- Application of **unsupervised learning** techniques such as **PCA**.
-   
-**Bachelor, Psychology | Universidad Autónoma de Madrid (_September- June 2015_)**
-- I excel in **statistics** during my **Bachelor's Degree**, obtaining outstanding grades.
-- My **Bachelor’s Thesis** was published in a **peer-reviewed journal**. 
+## Education
+
+**Applied Data Science** 
+MIT Professional Education | _May2023_
+- Comprehensive understanding of key **data science techniques**. 
+- Proficient in applying these techniques in **real-world scenarios** using **Python**, ensuring hands-on experience and practical skill development. 
+
+**Ph.D. in Human Movement Sciences** 
+Universidade de Lisboa | _April 2023_
+-	Developed a **cutting-edge model** to assess **shooting** and **passing availability** in **real in-game football scenarios**, leveraging actual gameplay data. 
+-	Conducted **in-depth research on defensive coordination** in football, utilizing **advanced analytics** to uncover **effective defensive strategies**. 
+-	Led an experiment **modeling coordination dynamics** among participants in **competitive settings**, incorporating antagonistic instructions to **simulate real-game scenarios**. 
+
+**Research Master in Human Movement Sciences** 
+Vrije Universiteit Amsterdam | _September2017_
+- Acquire a **diverse skill set** applicable to **data science**, including **hypothesis testing**, **supervised learning (linear regression)**, and **unsupervised learning techniques**, especially **PCA**. This included the application of such methodologies using **R** and **MATLAB**. 
+
+**Bachelor in Psichology**
+Universidad Autónoma de Madrid | _September2015_
 
 ## Work Experience
-**Consultant in Big Data @ Atrevia (_May 2023- Present_)**
-- **Data analysis** of **online conversations**, **reviews**, and **news feeds** to generate reports that inform business decisions. 
-- **Data scrapping** and **processing** of online sources using **Python**. 
-- **Data categorization** using **Chat-GPT API** and **NLP** techniques.
 
-**Statistics Tutor (SPSS  and R) @ Self-Employed (Lima, Perú) (_September 2017- June 2018_)**
-- I gave classes in **Statistics** to students of Sociology, Psychology, and similar fields.
-- The classes were mainly focused on the usage of **SPSS**, and **R** for **hypothesis testing**, and **exploratory data analysis**.
-- Additionally, I help them **write** and **strengthen** the **methodology** of their Bachelor’s thesis.
+**Data Analyst in Social Listening**
+Atrevia | _May 2023 – Present_
+- Leveraged **Python** for efficient **data scraping** and **processing**, extracting insights from **online conversations** including social media, reviews, and news feeds.
+- Applied **Chat-GPT API**, to **categorize** and **analyze unstructured social data** for actionable insights.
+- Provided **strategic recommendations** based on social listening insights.
 
-**Member of the Organization Committee @ 6th Iberian Congress of Perception (_April 2015- June 2015_)**
+**Statistics Tutor (R, and SPSS classes)**
+**Self-Employed** | _September 2017 – September 2018_
+
 
 ## Example Projects
 
