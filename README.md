@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist/ Analyst
 
 **Technical Skills:** Python, Excel, Matlab, SPSS, R, Brandwatch, Power BI, SQL
 
@@ -45,6 +45,9 @@ Atrevia | _May 2023 – Present_
 
 Self-Employed | _September 2017 – September 2018_
 
+**Member of the Organization Committee**
+
+6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
 
 ## Example Projects
 
