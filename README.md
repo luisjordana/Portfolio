@@ -1,15 +1,10 @@
 # Data Scientist/ Analyst
+- **Technical Skills:** Python, Excel, Matlab, SPSS, R, Brandwatch, Power BI, SQL
+- **Data Science:** Pandas, Numpy, Skicit-Learn, Tensorflow, Seaborn, Matplotlib
+- **Soft Skills:** Teamwork, Fast-learner, Independent Worker, Analytical Mind
+- **Languages:** Spanish (C2), English (C2), Portuguese (B1)
 
-**Technical Skills:** Python, Excel, Matlab, SPSS, R, Brandwatch, Power BI, SQL
-
-**Data Science:** Pandas, Numpy, Skicit-Learn, Tensorflow, Seaborn, Matplotlib
-
-**Soft Skills:** Teamwork, Fast-learner, Independent Worker, Analytical Mind
-
-**Languages:** Spanish (C2), English (C2), Portuguese (B1)
-
-## Education
-
+### Education
 **Applied Data Science** @ MIT Professional Education | _May 2023_
 - Comprehensive understanding of key **data science techniques**. 
 - Proficient in applying these techniques in **real-world scenarios** using **Python**, ensuring hands-on experience and practical skill development. 
@@ -25,7 +20,6 @@
 **Bachelor in Psichology** @ Universidad Autónoma de Madrid | _September 2015_
 
 ## Work Experience
-
 **Data Analyst in Social Listening** @ Atrevia | _May 2023 – Present_
 - Leveraged **Python** for efficient **data scraping** and **processing**, extracting insights from **online conversations** including social media, reviews, and news feeds.
 - Applied **Chat-GPT API**, to **categorize** and **analyze unstructured social data** for actionable insights.
@@ -36,7 +30,6 @@
 **Member of the Organization Committee** @ 6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
 
 ## Example Projects
-
 **Facial Emotion Detection**
 - In this data scientist project, we aim to generate a Deep Learning Algorithm that allows the machine to classify photos into four different emotions (_Happy_, _Sad_, _Neutral_, and _Surprise_). [Project](https://github.com/luisjordana/Facial_Emotion_Detection)
 
