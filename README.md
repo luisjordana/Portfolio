@@ -9,6 +9,7 @@
 **Languages:** Spanish (C2), English (C2), Portuguese (B1)
 
 ## Education
+
 **Applied Data Science** @ MIT Professional Education | _May 2023_
 - Comprehensive understanding of key **data science techniques**. 
 - Proficient in applying these techniques in **real-world scenarios** using **Python**, ensuring hands-on experience and practical skill development. 
@@ -24,6 +25,7 @@
 **Bachelor in Psichology** @ Universidad Autónoma de Madrid | _September 2015_
 
 ## Work Experience
+
 **Data Analyst in Social Listening** @ Atrevia | _May 2023 – Present_
 - Leveraged **Python** for efficient **data scraping** and **processing**, extracting insights from **online conversations** including social media, reviews, and news feeds.
 - Applied **Chat-GPT API**, to **categorize** and **analyze unstructured social data** for actionable insights.
