@@ -6,22 +6,16 @@
 **Languages:** Spanish (C2), English (C2), Portuguese (B1)
 
 ## Education
-**Applied Data Science** 
-
-MIT Professional Education | _May 2023_
+**Applied Data Science** @ MIT Professional Education | _May 2023_
 - Comprehensive understanding of key **data science techniques**. 
 - Proficient in applying these techniques in **real-world scenarios** using **Python**, ensuring hands-on experience and practical skill development. 
 
-**Ph.D. in Human Movement Sciences** 
-
-Universidade de Lisboa | _April 2023_
+**Ph.D. in Human Movement Sciences** @ Universidade de Lisboa | _April 2023_
 -	Developed a **cutting-edge model** to assess **shooting** and **passing availability** in **real in-game football scenarios**, leveraging actual gameplay data. 
 -	Conducted **in-depth research on defensive coordination** in football, utilizing **advanced analytics** to uncover **effective defensive strategies**. 
 -	Led an experiment **modeling coordination dynamics** among participants in **competitive settings**, incorporating antagonistic instructions to **simulate real-game scenarios**. 
 
-**Research Master in Human Movement Sciences** 
-
-Vrije Universiteit Amsterdam | _September 2017_
+**Research Master in Human Movement Sciences** @ Vrije Universiteit Amsterdam | _September 2017_
 - Acquire a **diverse skill set** applicable to **data science**, including **hypothesis testing**, **supervised learning (linear regression)**, and **unsupervised learning techniques**, especially **PCA**. This included the application of such methodologies using **R** and **MATLAB**. 
 
 **Bachelor in Psichology**
@@ -29,20 +23,14 @@ Vrije Universiteit Amsterdam | _September 2017_
 Universidad Autónoma de Madrid | _September 2015_
 
 ## Work Experience
-**Data Analyst in Social Listening**
-
-Atrevia | _May 2023 – Present_
+**Data Analyst in Social Listening** @ Atrevia | _May 2023 – Present_
 - Leveraged **Python** for efficient **data scraping** and **processing**, extracting insights from **online conversations** including social media, reviews, and news feeds.
 - Applied **Chat-GPT API**, to **categorize** and **analyze unstructured social data** for actionable insights.
 - Provided **strategic recommendations** based on social listening insights.
 
-**Statistics Tutor (R, and SPSS classes)**
+**Statistics Tutor (R, and SPSS classes)** @ Self-Employed | _September 2017 – September 2018_
 
-Self-Employed | _September 2017 – September 2018_
-
-**Member of the Organization Committee**
-
-6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
+**Member of the Organization Committee** @ 6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
 
 ## Example Projects
 
