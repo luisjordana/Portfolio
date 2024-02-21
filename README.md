@@ -19,7 +19,7 @@
 
 **Bachelor in Psichology** @ Universidad Autónoma de Madrid | _September 2015_
 
-## Work Experience
+### Work Experience
 **Data Analyst in Social Listening** @ Atrevia | _May 2023 – Present_
 - Leveraged **Python** for efficient **data scraping** and **processing**, extracting insights from **online conversations** including social media, reviews, and news feeds.
 - Applied **Chat-GPT API**, to **categorize** and **analyze unstructured social data** for actionable insights.
@@ -29,7 +29,7 @@
 
 **Member of the Organization Committee** @ 6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
 
-## Example Projects
+### Example Projects
 **Facial Emotion Detection**
 - In this data scientist project, we aim to generate a Deep Learning Algorithm that allows the machine to classify photos into four different emotions (_Happy_, _Sad_, _Neutral_, and _Surprise_). [Project](https://github.com/luisjordana/Facial_Emotion_Detection)
 
@@ -41,7 +41,7 @@
 - Two oscillators were programmed in such a way that their behavior was coupled to each other. By modifying the way such behavior was coupled, competitive coupling could be modeled leading to interesting insights into this unique antagonistic dynamic.
 [Project](https://github.com/luisjordana/competitive_model)
 
-## Publications
+### Publications
 1. Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. _Sensors_, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
 
 2. Stafford, J., Rodger, M., Gómez-Jordana, L. I., Whyatt, C., & Craig, C. M. (2022). Developmental differences across the lifespan in the use of perceptual information to guide action-based decisions. _Psychological research_, 1-16. [Publication](https://link.springer.com/article/10.1007/s00426-021-01476-8)
