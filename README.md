@@ -28,7 +28,7 @@
 
 **Statistics Tutor (R, and SPSS classes)** @ Self-Employed | _September 2017 – September 2018_
 - Teach Statistics to university students, mainly focusing on **SPSS** and **R**.
-- 
+  
 **Member of the Organization Committee** @ 6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
 - Help with the organization of the Conference.
 
