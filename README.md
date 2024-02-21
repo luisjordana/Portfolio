@@ -18,6 +18,7 @@
 - Acquire a **diverse skill set** applicable to **data science**, including **hypothesis testing**, **supervised learning (linear regression)**, and **unsupervised learning techniques**, especially **PCA**. This included the application of such methodologies using **R** and **MATLAB**. 
 
 **Bachelor in Psichology** @ Universidad Autónoma de Madrid | _September 2015_
+- Excel in statistics during the Bachelor's grade.
 
 ### Work Experience
 **Data Analyst in Social Listening** @ Atrevia | _May 2023 – Present_
@@ -26,8 +27,10 @@
 - Provided **strategic recommendations** based on social listening insights.
 
 **Statistics Tutor (R, and SPSS classes)** @ Self-Employed | _September 2017 – September 2018_
-
+- Teach Statistics to university students, mainly focusing on **SPSS** and **R**.
+- 
 **Member of the Organization Committee** @ 6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
+- Help with the organization of the Conference.
 
 ### Example Projects
 **Facial Emotion Detection**
