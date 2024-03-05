@@ -30,7 +30,7 @@
 - Taught Statistics to university students, mainly focusing on **SPSS** and **R**.
   
 **Member of the Organization Committee** @ 6th Iberian Congress of Perception and Action | _April 2015 – June 2016_
-- Help with the organization of the Conference.
+- Helped with the Conference organization.
 
 ### Example Projects
 **Facial Emotion Detection**
