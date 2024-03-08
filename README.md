@@ -33,6 +33,10 @@
 - Helped with the Conference organization.
 
 ### Example Projects
+**USA Census Data Cleaning**
+- In this small project, I explore the socioeconomic landscape of the United States using median income data obtained from the US Census Bureau. The dataset is messy and had to be cleaned using SQL before any kind of visualization was created.
+[Project](https://github.com/luisjordana/Census_data)
+
 **Facial Emotion Detection**
 - In this data scientist project, we aim to generate a Deep Learning Algorithm that allows the machine to classify photos into four different emotions (_Happy_, _Sad_, _Neutral_, and _Surprise_). [Project](https://github.com/luisjordana/Facial_Emotion_Detection)
 
@@ -40,9 +44,7 @@
 - In this data scientist project, we aim to implement a data segmentation strategy using unsupervised learning techniques. The goal is to partition a dataset into distinct groups or segments based on inherent patterns or similarities in the data, without the need for labeled outcomes.
 [Project](https://github.com/luisjordana/Marketing_Segmentation)
 
-**Competitive Oscillatory Coupling**
-- Two oscillators were programmed in such a way that their behavior was coupled to each other. By modifying the way such behavior was coupled, competitive coupling could be modeled leading to interesting insights into this unique antagonistic dynamic.
-[Project](https://github.com/luisjordana/competitive_model)
+
 
 ### Publications
 1. Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. _Sensors_, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
