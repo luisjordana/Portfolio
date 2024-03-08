@@ -34,7 +34,7 @@
 
 ### Example Projects
 **USA Census Data Cleaning**
-- In this small project, I explore the socioeconomic landscape of the United States using median income data obtained from the US Census Bureau. The dataset is messy and had to be cleaned using SQL before any kind of visualization was created.
+- In this small project, I explore the socioeconomic landscape of the United States using median income data obtained from the US Census Bureau. The dataset is messy and had to be cleaned using SQL before any kind of visualization was created. Maps for visualization were created using Tableau. 
 [Project](https://github.com/luisjordana/Census_data)
 
 **Facial Emotion Detection**
