@@ -1,6 +1,6 @@
 # Data Scientist/ Analyst
 - **Technical Skills:** Python, Excel, Matlab, SPSS, R, Brandwatch, Power BI, SQL
-- **Data Science:** Pandas, Numpy, Skicit-Learn, Tensorflow, Seaborn, Matplotlib
+- **Data Science:** Pandas, Numpy, Scikit-Learn, Tensorflow, Seaborn, Matplotlib
 - **Soft Skills:** Teamwork, Fast-learner, Independent Worker, Analytical Mind
 - **Languages:** Spanish (C2), English (C2), Portuguese (B1)
 
@@ -33,18 +33,16 @@
 - Helped with the Conference organization.
 
 ### Example Projects
+**Modeling attrition** 
+- In this data science project, our objective is to model attrition within a telecommunications company. The project encompasses the integration of disparate databases, meticulous data cleansing, rigorous feature selection, and the development of attrition prediction models. Additionally, it entails furnishing strategic recommendations tailored to the hypothetical company's context.
+[Project](https://github.com/luisjordana/attrition-workplace)
+
 **USA Census Data Cleaning**
 - In this small project, I explore the socioeconomic landscape of the United States using median income data obtained from the US Census Bureau. The dataset is messy and had to be cleaned using SQL before any kind of visualization was created. Maps for visualization were created using Tableau. 
-[Project](https://github.com/luisjordana/Census_data)
+[Project](https://github.com/luisjordana/Census-data)
 
 **Facial Emotion Detection**
-- In this data scientist project, we aim to generate a Deep Learning Algorithm that allows the machine to classify photos into four different emotions (_Happy_, _Sad_, _Neutral_, and _Surprise_). [Project](https://github.com/luisjordana/Facial_Emotion_Detection)
-
-**Marketing Segmentation** 
-- In this data scientist project, we aim to implement a data segmentation strategy using unsupervised learning techniques. The goal is to partition a dataset into distinct groups or segments based on inherent patterns or similarities in the data, without the need for labeled outcomes.
-[Project](https://github.com/luisjordana/Marketing_Segmentation)
-
-
+- In this data scientist project, we aim to generate a Deep Learning Algorithm that allows the machine to classify photos into four emotions (_Happy_, _Sad_, _Neutral_, and _Surprise_). [Project](https://github.com/luisjordana/Facial-Emotion-Detection)
 
 ### Publications
 1. Loutfi, I., Gómez-Jordana, L. I., Ric, A., Milho, J., & Passos, P. (2023). Highlighting Shooting Opportunities in Football. _Sensors_, _23_(9), 4244. [Publication](https://www.mdpi.com/1424-8220/23/9/4244/pdf)
